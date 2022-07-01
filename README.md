@@ -1,2 +1,16 @@
-### My slow laptop Asus X55U don't like hot weather, me too, I like winter more ;-) 
-### So, possible break until cold days ;-)
+Coding for me was always some kind of hobby, never hard job. I like improving things, making things simpler. 
+
+### Current activity
+
+My current activity is mostly focused at my [Woodworking](https://github.com/dprojects/Woodworking) project at FreeCAD. However, I am not part of the FreeCAD team and I am not connected with FreeCAD. It's just my hobby, nothing more. 
+
+### My accounts
+
+My accounts related to dprojects are only:
+* this one [github.com/dprojects](https://github.com/dprojects) at Github
+* and this one [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) at FreeCAD forum.
+
+All other nicknames dprojects at the internet or companies in real-life are not connected with me. 
+
+
+**My slow laptop Asus X55U don't like hot weather, me too, I like winter more. So, possible break until cold days.**
