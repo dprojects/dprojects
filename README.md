@@ -7,8 +7,10 @@ My current activity is mostly focused at my [Woodworking](https://github.com/dpr
 ### My accounts
 
 My accounts related to dprojects are only:
-* this one [github.com/dprojects](https://github.com/dprojects) at Github
-* and this one [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) at FreeCAD forum.
+* [github.com/dprojects](https://github.com/dprojects) - at Github
+* [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) - at FreeCAD forum
+* [crowdin.com/profile/dprojects](https://crowdin.com/profile/dprojects) - at Crowdin
+
 
 All other nicknames dprojects at the internet or companies in real-life are not connected with me. 
 
