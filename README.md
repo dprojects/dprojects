@@ -1,8 +1,8 @@
-Coding for me was always some kind of hobby, never hard job. I like improving things, making things simpler. 
+I like improving things, making things simpler. Coding for me was always some kind of hobby. I have never treated coding as hard work for money only, coding was always more like a hobby, even when I was working in a corporation as a Software Engineer. However, I hate manipulations of any kind. I see all of them and I turn into deamon then ;-)
 
 ### Current activity
 
-My current activity is mostly focused at my [Woodworking](https://github.com/dprojects/Woodworking) project at FreeCAD. However, I am not part of the FreeCAD team and I am not connected with FreeCAD. It's just my hobby, nothing more. 
+My current activity is mostly focused at my [Woodworking](https://github.com/dprojects/Woodworking) extension for FreeCAD. However, I am not part of the FreeCAD team and I am not connected with FreeCAD. Coding and woodworking is my hobby, nothing more. 
 
 ### My accounts
 
