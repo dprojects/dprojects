@@ -2,7 +2,7 @@ I like to improve things and make things simpler. Coding for me was always some 
 
 ### Current activity
 
-My current activity is mostly focused at my [Woodworking](https://github.com/dprojects/Woodworking) extension for FreeCAD. However, I am not part of the FreeCAD team. Coding and woodworking is my hobby, nothing more and gives me a lot of fun. 
+My current activity is mostly focused at my [Woodworking](https://github.com/dprojects/Woodworking) extension for FreeCAD. However, I am not part of the FreeCAD team. Coding and woodworking is my hobby and gives me a lot of fun. 
 
 ### My accounts
 
