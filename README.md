@@ -11,8 +11,4 @@ My accounts related to dprojects are only:
 * [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) - at FreeCAD forum
 * [crowdin.com/profile/dprojects](https://crowdin.com/profile/dprojects) - at Crowdin
 
-
 All other nicknames dprojects at the internet or companies in real-life are not connected with me. 
-
-
-**My slow laptop Asus X55U don't like hot weather, me too, I like winter more. So, possible break until cold days.**
