@@ -10,5 +10,6 @@ My accounts related to dprojects are only:
 * [github.com/dprojects](https://github.com/dprojects) - at Github
 * [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) - at FreeCAD forum
 * [crowdin.com/profile/dprojects](https://crowdin.com/profile/dprojects) - at Crowdin
+* [my YouTube channel](https://www.youtube.com/channel/UCDaABD-__ESAfflopSqZ0ng/videos) - to post new features, tutorials and not overload github with heavy gifs
 
 All other nicknames dprojects at the internet or companies in real-life are not connected with me. 
