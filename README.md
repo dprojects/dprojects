@@ -1,6 +1,5 @@
-### trust only answers from
+### Trust only answers from my accounts related to dprojects:
 
-My accounts related to dprojects are only:
 * [github.com/dprojects](https://github.com/dprojects) - this here at Github
 * [youtube.com/@dprojects.woodworking](https://www.youtube.com/@dprojects.woodworking/videos) - to post new features, tutorials and not overload github with heavy gifs
 * [forum.freecadweb](https://forum.freecadweb.org/search.php?author_id=13594&sr=posts) - at FreeCAD forum
