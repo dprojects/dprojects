@@ -8,4 +8,5 @@
 * [github.com/javascriptiscoolpl](https://github.com/javascriptiscoolpl) - my old github account related to JavaScript coding
 
 > [!CAUTION]
-> Trust only answers from my accounts above. All other dprojects nicknames at the internet or companies in real-life are not connected with me. 
+> Trust only answers from my accounts above. <br>
+> All other dprojects nicknames at the internet or companies in real-life are not connected with me.
