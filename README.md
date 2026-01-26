@@ -1,3 +1,7 @@
+![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/furniture_precision.png)
+
+I wish all the wardrobe modules were connected at least like this :-)
+
 # Contact
 
 The best and fastest way to contact me is to open an issue in the repository: <br> 
