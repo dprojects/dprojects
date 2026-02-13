@@ -1,6 +1,6 @@
-![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/furniture_precision.png)
+![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/perfect_countersink.png)
 
-I wish all the wardrobe modules were connected at least like this :-)
+... a little life-hack to create perfect countersink for 3 mm pilot hole :-)
 
 # Contact
 
