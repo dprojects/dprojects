@@ -1,6 +1,6 @@
-![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/perfect_countersink.png)
+![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/new_workbench_feature.png)
 
-... a little life-hack to create perfect countersink for 3 mm pilot hole :-)
+... each module brings new inventions, so simple and so practical, now my backbone and legs feel better while laminating, having an iron always at hand :-)
 
 # Contact
 
