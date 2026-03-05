@@ -1,6 +1,6 @@
-![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/new_workbench_feature.png)
+![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/doweling_jig.png)
 
-... each module brings new inventions, so simple and so practical, now my backbone and legs feel better while laminating, having an iron always at hand :-)
+...my handy doweling jig, made about 10 years ago from beech wood and an M16 screw... and now it's the perfect tool for quickly drilling 2mm pilot holes for 3x20mm screws for attaching HDF. A properly attached back HDF board guarantees the stability of even weaker structures for years...
 
 # Contact
 
