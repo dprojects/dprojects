@@ -1,6 +1,26 @@
-![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/doweling_jig.png)
+![img](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/wardrobe_done.png)
 
-...my handy doweling jig, made about 10 years ago from beech wood and an M16 screw... and now it's the perfect tool for quickly drilling 2mm pilot holes for 3x20mm screws for attaching HDF. A properly attached back HDF board guarantees the stability of even weaker structures for years...
+Finally all 5 modules done :-)
+
+| Qty | Cost | Total cost | Description |
+| ---: | ---: | ---: | :--- |
+| 102 | 37.98 zł / m^2 | 1053.349 zł | Chipboard 18 mm |
+| 19 | 20.79 zł / m^2 | 126.831 zł | HDF 3 mm |
+| 125 | 3.49 zł single cut | 436.25 zł | Cut service |
+| 54 | 12.29 zł | 663,66 zł | Domino hinge f35 with soft-close |
+| 22 | 6.19 zł | 136.18 zł | Front handle |
+| 45.192 m | 1.50 zł / m | 67.788 zł | Black veneer for fronts |
+| 103.328 m | 1.50 zł / m | 154.992 zł | White veneer for red in file |
+
+**Total cost:** about 2700 zł
+
+**For each module:**
+* Moving 21 boards to the 4th floor, 6 times: 1 hour
+* Laminating with a small iron: 1 day
+* Drilling pilot holes: 1 day
+* Screwing parts together: 1 day
+
+**Project file:** [wardrobe_done.FCStd.zip](https://raw.githubusercontent.com/dprojects/dprojects/refs/heads/main/wardrobe_done.FCStd.zip) (remove .zip, saved with FreeCAD_weekly-2026.02.11)
 
 # Contact
 
